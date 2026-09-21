@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "middleware",
+    "rema-fixes",
+    "resource"
+  ],
+  "parent": {
+    "main": null,
+    "middleware": "main",
+    "rema-fixes": "main",
+    "resource": "main"
+  },
+  "order": [
+    "main",
+    "middleware",
+    "rema-fixes",
+    "resource"
+  ]
+}
